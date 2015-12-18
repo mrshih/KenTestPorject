@@ -1,11 +1,11 @@
 # KenTestPorject
 # 說明
 - 參照ken的履歷資料並依照公司未來專案基本技能需求擬定以下專案
-- 以下有兩個小專案，請估算需要多少時間，如android ui部分須多少時間，切出並粗估時間
+- 以下有兩個小專案，請依照所知軟體know how，估算需要多少時間，如android ui部分須多少時間，切出並粗估時間
 - 如有疑問請來信andy@paysecure.com.tw
 
 ## Android 路易莎mPOS demo Android版
-1. 情境：公司現已有路易莎mPOS demo iOS版本，請依該版本實作相同功能android app 
+1. 情境：公司現已有路易莎mPOS demo iOS版本，請依該版本實作相同功能android app
 2. 需求：透過softspace提供之third party library實作mpos clint
 3. 工作內容：透過android studio以iOS UI為範本，搭配softspace提供library，搭配版本控制系統，完成demo app（在還沒收到library前，先做UI）
 4. 資源：跟softspace要求library
